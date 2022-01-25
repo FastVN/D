@@ -1,3 +1,4 @@
+wget https://github.com/FastVN/D.git
 npm install axios
 npm install request
 npm install fake-useragent
